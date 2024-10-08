@@ -4,7 +4,7 @@ instructions pour reconnaissance bug bounty
 
 ## recherche sous-domaine manuellement 
 
-https://www.virustotal.com/gui/home/u...
+https://www.virustotal.com/gui/home/u
 https://chaos.projectdiscovery.io/#/
 https://crt.sh/?q=
 
@@ -12,7 +12,7 @@ https://crt.sh/?q=
 
 https://github.com/tomnomnom/assetfinder
 https://github.com/owasp-amass/amass
-https://github.com/projectdiscovery/s
+https://github.com/projectdiscovery/subfinder
 
 ```bash
 sudo subfinder -d nom-de-domaine.com -all > domaines1.txt
