@@ -129,6 +129,7 @@ Broken Link Hijacking = socialhunter https://github.com/utkusen/socialhunter
 socialhunter -f domaines_actifs.txt
 
 ```
+payloads = https://github.com/swisskyrepo/PayloadsAllTheThings
 
 port finder = nmap p -T4 -sC -sV [ip address]
 
